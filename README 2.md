@@ -1,7 +1,7 @@
 # link of create robot:
 URL: https://robohash.org
 # API link:
-URL: https://my-json-server.typicode.com/vanha777/robofriendsAPI/robots
+URL: https://my-json-server.typicode.com/vanha777/RoboFriendsProject/robots
 Provider: https://jsonplaceholder.typicode.com/ 
 # Getting Started with Create React App
 
